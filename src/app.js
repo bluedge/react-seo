@@ -2,7 +2,6 @@ var React = require('react');
 var ReactDOM = require('react-dom');
 
 
-
 module.exports = React.createClass({
 	getInitialState: function() {
 		return { wishes: ['Peace on earth', 'Drinkable water for everyone', 'Free ice cream for kids'] };
