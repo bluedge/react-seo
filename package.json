@@ -1,0 +1,28 @@
+{
+  "name": "REACTSEO",
+  "description": "SEO Friendly + ReactJS",
+  "version": "1.0.0",
+  "private": true,
+  "author": "Bluedge Ltd <nico@bluedge.co.uk>",
+  "dependencies": {
+	"babel-core": "6.13.2",
+    "ejs": "2.5.1",
+    "express": "4.14.0",
+    "react": "15.3.0",
+    "react-dom": "15.3.0"
+  },
+  "scripts": {
+    "start": "node server.js",
+    "build": "grunt"
+  },
+  "engines": {
+    "node": ">=4.3.0"
+  },
+  "devDependencies": {
+    "babel-preset-es2015": "6.13.2",
+    "babel-preset-react": "6.11.1",
+    "babelify": "7.3.0",
+    "grunt": "1.0.1",
+    "grunt-browserify": "5.0.0"
+  }
+}
