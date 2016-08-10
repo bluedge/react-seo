@@ -1,2 +1,2 @@
 # react-seo
-Example of a SEO friendly website with React
+## tutorial : How to build an SEO friendly website with Reactjs
