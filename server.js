@@ -5,7 +5,6 @@ require('babel-core/register')({
 
 // REQUIRES
 var express = require("express");
-var jade = require("jade");
 var app = express();
 
 
